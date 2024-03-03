@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contributions
-Vue 2: https://github.com/vuejs/vue/commits?author=rudyxu1102
-Vue 3: https://github.com/vuejs/core/commits?author=rudyxu1102
-amis: https://github.com/baidu/amis/commits?author=rudyxu1102
+## Contributions
+- Vue 2: https://github.com/vuejs/vue/commits?author=rudyxu1102
+- Vue 3: https://github.com/vuejs/core/commits?author=rudyxu1102
+- amis: https://github.com/baidu/amis/commits?author=rudyxu1102
