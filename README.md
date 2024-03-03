@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contributions
-- Vue 2: https://github.com/vuejs/vue/commits?author=rudyxu1102
-- Vue 3: https://github.com/vuejs/core/commits?author=rudyxu1102
+- Vue 2: https://github.com/vuejs/vue/pulls/rudyxu1102
+- Vue 3: https://github.com/vuejs/core/pulls/rudyxu1102
+- Vue RFCs: https://github.com/vuejs/rfcs/pulls/rudyxu1102
 - amis: https://github.com/baidu/amis/commits?author=rudyxu1102
