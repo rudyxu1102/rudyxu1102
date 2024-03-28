@@ -4,6 +4,6 @@
 
 ## Contributions
 - Vue 2: https://github.com/vuejs/vue/pulls/rudyxu1102
-- Vue 3: https://github.com/vuejs/core/pulls/rudyxu1102
+- Vue 3: [https://github.com/vuejs/core/pulls/rudyxu1102](https://github.com/vuejs/core/pulls?q=is%3Aopen+is%3Apr+author%3Arudyxu1102+sort%3Acomments-desc)
 - Vue RFCs: https://github.com/vuejs/rfcs/pulls/rudyxu1102
 - amis: https://github.com/baidu/amis/commits?author=rudyxu1102
