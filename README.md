@@ -9,5 +9,3 @@
 - Vue RFCs: https://github.com/vuejs/rfcs/pulls/rudyxu1102
 - React amis: https://github.com/baidu/amis/commits?author=rudyxu1102
 
-## 内推
-https://app.mokahr.com/su/kgoaqx
